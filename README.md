@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a simple Tic-Tac-Toe game implemented in Java using Swing for the graphical user interface (GUI). The game allows two players to take turns and marks their moves with "X" and "O". The game checks for a winner or a tie and displays a message accordingly.
+This is a simple Tic-Tac-Toe game implemented in Java using Swing for the graphical user interface (GUI). 
+The game allows two players to take turns and marks their moves with "X" and "O". The game checks for a winner or a tie and displays a message accordingly.
 
 ## Features
 
